@@ -8,6 +8,7 @@ import scala.annotation.tailrec
 object Fibonacci extends App{
  // 0,\;1,\;1,\;2,\;3,\;5,\;8,\;13,\;21,\;34,\;55,\;89,\;144,\;\ldots \;.[3]
  def fib(x: Int): Int = {
+   @tailrec
   def fibHelper(x:Int, prev:Int = 0, next:Int = 1):Int ={
     x match {
       case 0 => prev
