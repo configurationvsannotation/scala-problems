@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/scala/com/sage/functional/List.scala" line="13" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/scala/com/sage/functional/List.scala" line="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="230d3b5a-366c-4d27-83e9-ca3bd67424bd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/sage/functional/Factorial.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/sage/functional/SortedArray.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/com/sage/functional/FactorialSpec.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/com/sage/functional/SortedArraySpec.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/sage/functional/Fibonacci.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/sage/functional/Fibonacci.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/sage/functional/List.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/com/sage/functional/Chapter3Exercises.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/scala-problems.iml" afterPath="$PROJECT_DIR$/.idea/modules/scala-problems.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/sage/functional/ComposingFunctions.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/sage/functional/ComposingFunctions.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -27,86 +33,55 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="scala-problems" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MatrixUtils.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/sage/implicits/MatrixUtils.scala">
+      <file leaf-file-name="List.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/sage/functional/List.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="278">
+              <caret line="122" column="0" lean-forward="true" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NextLarger.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/com/sage/uptake/NextLarger.scala">
+      <file leaf-file-name="Chapter3Exercises.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/com/sage/functional/Chapter3Exercises.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Factorial.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/sage/functional/Factorial.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortedArray.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/sage/functional/SortedArray.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortedArraySpec.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/com/sage/functional/SortedArraySpec.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FactorialSpec.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/com/sage/functional/FactorialSpec.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TraversableOnce.scala" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.1-sources.jar!/scala/collection/TraversableOnce.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2745">
-              <caret line="193" column="6" lean-forward="false" selection-start-line="193" selection-start-column="6" selection-end-line="193" selection-end-column="6" />
+            <state relative-caret-position="134">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="e#560#619#0" expanded="false" />
+                <element signature="e#29#58#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.scala" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.1-sources.jar!/scala/package.scala">
+      <file leaf-file-name="FlatSpec.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.11/srcs/scalatest_2.11-3.0.1-sources.jar!/org/scalatest/FlatSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="84" column="7" lean-forward="false" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
+            <state relative-caret-position="182">
+              <caret line="1684" column="30" lean-forward="true" selection-start-line="1684" selection-start-column="30" selection-end-line="1684" selection-end-column="30" />
               <folding>
                 <element signature="n#!!doc" expanded="false" />
               </folding>
@@ -114,27 +89,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fibonacci.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/sage/functional/Fibonacci.scala">
+      <file leaf-file-name="FlatSpecLike.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.11/srcs/scalatest_2.11-3.0.1-sources.jar!/org/scalatest/FlatSpecLike.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-              <folding />
+            <state relative-caret-position="133">
+              <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="e#624#646#0" expanded="false" />
+                <element signature="e#52628#52666#0" expanded="false" />
+                <element signature="e#56518#56556#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FibonacciSpec.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/com/sage/functional/FibonacciSpec.scala">
+      <file leaf-file-name="ShouldVerb.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.11/srcs/scalatest_2.11-3.0.1-sources.jar!/org/scalatest/words/ShouldVerb.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="1890">
+              <caret line="140" column="64" lean-forward="false" selection-start-line="140" selection-start-column="64" selection-end-line="140" selection-end-column="64" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reve</find>
+      <find>itv</find>
+      <find>string</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -155,6 +144,11 @@
         <option value="$PROJECT_DIR$/src/test/scala/com/sage/functional/FactorialSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/sage/functional/SortedArray.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/sage/functional/SortedArraySpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/sage/functional/ComposingFunctions.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/sage/functional/ListSpec.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/sage/functional/Chapter3Exercises.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/sage/functional/List.scala" />
       </list>
     </option>
   </component>
@@ -165,8 +159,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="33" />
-    <option name="y" value="50" />
+    <option name="x" value="98" />
+    <option name="y" value="96" />
     <option name="width" value="1398" />
     <option name="height" value="770" />
   </component>
@@ -185,8 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -195,7 +187,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="scala-problems" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SBT: org.scalatest:scalatest_2.11:3.0.1:jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scalatest_2.11-3.0.1.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scalatest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-problems" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SBT: org.scalatest:scalatest_2.11:3.0.1:jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scalatest_2.11-3.0.1.jar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -206,128 +238,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scala-problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uptake" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala-problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala-problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala-problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala-problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala-problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala-problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="functional" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -368,114 +278,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala-problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala-problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="regex" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala-problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala-problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="functional" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala-problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala-problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="collections" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -484,50 +294,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3862069" />
   </component>
-  <component name="RunManager" selected="ScalaTest.SortedArraySpec">
-    <configuration default="false" name="NextLarger" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="scala-problems" />
-      <setting name="path" value="com.sage.uptake.NextLarger" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <classRegexps />
-      <testRegexps />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="FibonacciSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="scala-problems" />
-      <setting name="path" value="com.sage.functional.FibonacciSpec" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <classRegexps />
-      <testRegexps />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Fibonacci" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="ScalaTest.ScalaTests in 'scala'">
+    <configuration default="false" name="ComposingFunctions" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.sage.functional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.sage.functional.Fibonacci" />
+      <option name="MAIN_CLASS_NAME" value="com.sage.functional.ComposingFunctions" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -540,10 +319,30 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="FactorialSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration default="false" name="Runner" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sage.functional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.sage.functional.Runner" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="scala-problems" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ListSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="scala-problems" />
-      <setting name="path" value="com.sage.functional.FactorialSpec" />
+      <setting name="path" value="com.sage.functional.ListSpec" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
@@ -557,10 +356,10 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="SortedArraySpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+    <configuration default="false" name="Chapter3Exercises" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="scala-problems" />
-      <setting name="path" value="com.sage.functional.SortedArraySpec" />
+      <setting name="path" value="com.sage.functional.Chapter3Exercises" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
@@ -568,6 +367,23 @@
       <setting name="searchForTest" value="Across module dependencies" />
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ScalaTests in 'scala'" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="scala-problems" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="All in package" />
       <setting name="showProgressMessages" value="true" />
       <classRegexps />
       <testRegexps />
@@ -1006,24 +822,24 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="ScalaTest.NextLarger" />
-      <item index="1" class="java.lang.String" itemvalue="ScalaTest.FibonacciSpec" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Fibonacci" />
-      <item index="3" class="java.lang.String" itemvalue="ScalaTest.FactorialSpec" />
-      <item index="4" class="java.lang.String" itemvalue="ScalaTest.SortedArraySpec" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ComposingFunctions" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Runner" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.ListSpec" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.Chapter3Exercises" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.ScalaTests in 'scala'" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.SortedArraySpec" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.FactorialSpec" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.FibonacciSpec" />
-        <item index="3" class="java.lang.String" itemvalue="ScalaTest.NextLarger" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Fibonacci" />
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.ScalaTests in 'scala'" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.Chapter3Exercises" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.ListSpec" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Runner" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ComposingFunctions" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1488902294633" />
+    <option name="lastUpdateTimestamp" value="1489346202171" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -1052,7 +868,7 @@
       <map>
         <entry key="$PROJECT_DIR$/../SCIM" value="1488893147000" />
         <entry key="$PROJECT_DIR$/../hotstuff" value="1488761415000" />
-        <entry key="$PROJECT_DIR$" value="1488893030000" />
+        <entry key="$PROJECT_DIR$" value="1489346179000" />
       </map>
     </option>
     <option name="externalProjectsViewState">
@@ -1072,6 +888,7 @@
       <workItem from="1488902282261" duration="7640000" />
       <workItem from="1489020939463" duration="3874000" />
       <workItem from="1489054204739" duration="1762000" />
+      <workItem from="1489240087248" duration="21046000" />
     </task>
     <task id="LOCAL-00001" summary="more stuff">
       <created>1489027796655</created>
@@ -1084,61 +901,61 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortedArraySpec - 2017.03.09 at 04h 28m 10s.xml">
-      <configuration name="SortedArraySpec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Chapter3Exercises - 2017.03.12 at 18h 52m 22s.xml">
+      <configuration name="Chapter3Exercises" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="SortedArraySpec - 2017.03.09 at 04h 28m 49s.xml">
-      <configuration name="SortedArraySpec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Chapter3Exercises - 2017.03.12 at 19h 02m 56s.xml">
+      <configuration name="Chapter3Exercises" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="SortedArraySpec - 2017.03.09 at 04h 30m 49s.xml">
-      <configuration name="SortedArraySpec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Chapter3Exercises - 2017.03.12 at 19h 03m 29s.xml">
+      <configuration name="Chapter3Exercises" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="SortedArraySpec - 2017.03.09 at 04h 31m 29s.xml">
-      <configuration name="SortedArraySpec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Chapter3Exercises - 2017.03.12 at 19h 03m 58s.xml">
+      <configuration name="Chapter3Exercises" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="SortedArraySpec - 2017.03.09 at 04h 31m 41s.xml">
-      <configuration name="SortedArraySpec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Chapter3Exercises - 2017.03.12 at 19h 04m 22s.xml">
+      <configuration name="Chapter3Exercises" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="SortedArraySpec - 2017.03.09 at 04h 33m 14s.xml">
-      <configuration name="SortedArraySpec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Chapter3Exercises - 2017.03.12 at 19h 05m 08s.xml">
+      <configuration name="Chapter3Exercises" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="SortedArraySpec - 2017.03.09 at 04h 34m 38s.xml">
-      <configuration name="SortedArraySpec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Chapter3Exercises - 2017.03.12 at 19h 06m 05s.xml">
+      <configuration name="Chapter3Exercises" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="SortedArraySpec - 2017.03.09 at 04h 34m 51s.xml">
-      <configuration name="SortedArraySpec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Chapter3Exercises - 2017.03.12 at 19h 06m 52s.xml">
+      <configuration name="Chapter3Exercises" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="SortedArraySpec - 2017.03.09 at 04h 35m 07s.xml">
-      <configuration name="SortedArraySpec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="Chapter3Exercises - 2017.03.12 at 19h 07m 37s.xml">
+      <configuration name="Chapter3Exercises" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="SortedArraySpec - 2017.03.09 at 04h 35m 26s.xml">
-      <configuration name="SortedArraySpec" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="ScalaTests_in_'scala' - 2017.03.12 at 20h 45m 14s.xml">
+      <configuration name="ScalaTests in 'scala'" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13276000" />
+    <option name="totallyTimeSpent" value="34322000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="33" y="50" width="1398" height="770" extended-state="0" />
-    <editor active="true" />
+    <frame x="98" y="96" width="1398" height="770" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37315634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2920354" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2920354" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25737464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26106194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1154,6 +971,39 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46165192" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37315634" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2920354" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26106194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -1167,7 +1017,27 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/com/sage/functional/List.scala</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/com/sage/functional/List.scala</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/com/sage/functional/List.scala</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1176,6 +1046,59 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/sage/functional/SortedArraySpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/sage/functional/FactorialSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.1-sources.jar!/scala/collection/TraversableOnce.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2895">
+          <caret line="193" column="6" lean-forward="false" selection-start-line="193" selection-start-column="6" selection-end-line="193" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#560#619#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.1-sources.jar!/scala/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="84" column="7" lean-forward="false" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sage/functional/Fibonacci.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/sage/functional/FibonacciSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/sage/implicits/MatrixUtils.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1478,5 +1401,161 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sage/functional/ComposingFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.11/srcs/scalatest_2.11-3.0.1-sources.jar!/org/scalatest/FlatSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="1684" column="30" lean-forward="true" selection-start-line="1684" selection-start-column="30" selection-end-line="1684" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.11/srcs/scalatest_2.11-3.0.1-sources.jar!/org/scalatest/FlatSpecLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#624#646#0" expanded="false" />
+            <element signature="e#52628#52666#0" expanded="false" />
+            <element signature="e#56518#56556#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.11/srcs/scalatest_2.11-3.0.1-sources.jar!/org/scalatest/words/ShouldVerb.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="140" column="64" lean-forward="false" selection-start-line="140" selection-start-column="64" selection-end-line="140" selection-end-column="64" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/sage/functional/Chapter3Exercises.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#29#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/sage/functional/List.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="122" column="0" lean-forward="true" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>scala-problems</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>SBT: org.scala-lang:scala-library:2.12.1:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3862069" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
